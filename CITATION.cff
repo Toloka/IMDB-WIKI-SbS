@@ -3,9 +3,8 @@
 
 cff-version: 1.2.0
 title: >-
-  IMDB-WIKI-SbS: An Evaluation Dataset for Crowdsourced
-  Pairwise Comparisons
-message: '  If you use this software, please cite it using the   metadata from this file.'
+  IMDB-WIKI-SbS: An Evaluation Dataset for Crowdsourced Pairwise Comparisons
+message: 'If you use this software, please cite it using the metadata from this file.'
 type: software
 authors:
   - {}
