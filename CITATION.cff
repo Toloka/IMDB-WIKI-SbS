@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  IMDB-WIKI-SbS: An Evaluation Dataset for Crowdsourced Pairwise Comparisons
+message: 'If you use this software, please cite it using the metadata from this file.'
+type: software
+authors:
+  - {}
+  - given-names: Nikita
+    family-names: Pavlichenko
+    orcid: 'https://orcid.org/0000-0002-7330-393X'
+  - given-names: Dmitry
+    family-names: Ustalov
+    orcid: 'https://orcid.org/0000-0002-9979-2188'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2110.14990
+  - type: url
+    value: >-
+      https://datacentricai.org/neurips21/papers/115_CameraReady_NeurIPS_2021_Data_Centric_AI_IMDB_WIKI_SbS-2.pdf
+repository-code: 'https://github.com/Toloka/IMDB-WIKI-SbS'
+license: CC-BY-4.0
